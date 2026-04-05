@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Raghav, **Software developer** with over two years of experience designing scalable backend systems, now specializing in **Applied AI** through self-driven projects involving end-to-end ML and LLM-powered applications
+I'm Raghav, a **Software developer** experienced in maintaining scalable backend systems, specializing in **Applied AI** through self-driven projects involving end-to-end ML and LLM-powered applications
 
 
 ### ⚡Core AI Engineering Skills & Projects
