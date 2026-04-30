@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I'm Raghav, a **Software developer** experienced in maintaining scalable backend systems, specializing in **Applied AI** through self-driven projects involving end-to-end ML and LLM-powered applications
+I’m Raghav, a **Software Developer** experienced in application support, incident management, and maintaining scalable backend systems, with a strong interest in developing AI-driven applications.
 
-
-### ⚡Core AI Engineering Skills & Projects
+### ⚡Personal Projects
 
 #### ✔️ Retrieval-Augmented Generation (RAG)
 
